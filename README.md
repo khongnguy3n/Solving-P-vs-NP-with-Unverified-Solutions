@@ -38,7 +38,7 @@ The full paper is provided in the `/paper` directory:https://github.com/khongngu
 
 - `P-vs-NP_Unverified-Solutions.pdf` – Full English version of the research paper.
 
-> The original research was conducted by **Nguyễn Minh Chính** (Germany, 2025).
+> The original research was conducted by **khong nguyen** (Germany, 2025).
 
 ---
 
