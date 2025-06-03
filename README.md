@@ -34,7 +34,7 @@ This work proposes that the structure and growth behavior of the space of unveri
 
 ## Document
 
-The full paper is provided in the `/paper` directory:https://github.com/khongnguy3n/Solving-P-vs-NP-with-Unverified-Solutions/blob/main/paper/P%20vs%20NP%20Problem.pdf
+The full paper is provided in the directory:https://github.com/khongnguy3n/Solving-P-vs-NP-with-Unverified-Solutions/blob/main/paper/P%20vs%20NP%20Problem.pdf
 
 - `P-vs-NP_Unverified-Solutions.pdf` – Full English version of the research paper.
 
