@@ -7,7 +7,7 @@ This repository presents a formal and structural approach to the P vs NP problem
 This work proposes that the structure and growth behavior of the space of unverified candidate solutions play a critical role in computational tractability.
 
 ---
-
+ 
 ## Key Concepts
 
 - **Unverified Solution Set**: The set of candidate solutions that have not yet been verified as correct or incorrect by any polynomial-time algorithm.
